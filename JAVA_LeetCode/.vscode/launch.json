@@ -1,0 +1,42 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "BinarySearch",
+            "request": "launch",
+            "mainClass": "BinarySearch.BinarySearch",
+            "projectName": "JAVA_LeetCode_32e78163"
+        },
+        {
+            "type": "java",
+            "name": "FindFirstandLastPositionofElementinSortedArray",
+            "request": "launch",
+            "mainClass": "BinarySearch.FindFirstandLastPositionofElementinSortedArray",
+            "projectName": "JAVA_LeetCode_32e78163"
+        },
+        {
+            "type": "java",
+            "name": "SearchInsertPosition",
+            "request": "launch",
+            "mainClass": "BinarySearch.SearchInsertPosition",
+            "projectName": "JAVA_LeetCode_32e78163"
+        }
+    ]
+}
